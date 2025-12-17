@@ -20,4 +20,3 @@ streamlit run app.py
 ## Run the Model
 The machine learning model is trained automatically when the application runs.
 Model training and prediction logic are handled inside app.py, and the trained model is saved locally in the models/ directory.
- -m "Update README with model run details"
