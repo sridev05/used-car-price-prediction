@@ -14,7 +14,6 @@ A machine learning–based web application that predicts the selling price of a 
 - `data/` – Dataset used for training
 
 ## How to Run the Application
-```bash
 pip install -r requirements.txt
 streamlit run app.py
 
@@ -22,4 +21,3 @@ streamlit run app.py
 The machine learning model is trained automatically when the application runs.
 Model training and prediction logic are handled inside app.py, and the trained model is saved locally in the models/ directory.
  -m "Update README with model run details"
-git push
